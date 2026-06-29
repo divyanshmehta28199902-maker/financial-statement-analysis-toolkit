@@ -12,7 +12,7 @@ Professional equity valuation toolkit...
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
 ![DCF](https://img.shields.io/badge/DCF-Valuation-success)
 ![Financial Analysis](https://img.shields.io/badge/Finance-Analysis-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 > **Stack:** Python · Excel (openpyxl) · Pandas · Matplotlib · NumPy
 
