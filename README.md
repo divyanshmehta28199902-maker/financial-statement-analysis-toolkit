@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Docs/Images/Banner.jpg" alt="Financial Statement Analysis & Valuation Toolkit Banner" width="100%">
+</p>
+
 # 💼 Project 4: Financial Statement Analysis & Valuation Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
