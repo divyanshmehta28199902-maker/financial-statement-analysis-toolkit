@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="Docs/Images/Banner.jpg" alt="Financial Statement Analysis & Valuation Toolkit Banner" width="100%">
+  <img src="Docs/Images/Banner.png" width="100%">
 </p>
 
 # 💼 Project 4: Financial Statement Analysis & Valuation Toolkit
+
+Professional equity valuation toolkit...
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Excel](https://img.shields.io/badge/Excel-Automation-217346?logo=microsoftexcel)
