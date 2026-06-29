@@ -1,5 +1,13 @@
 # 💼 Project 4: Financial Statement Analysis & Valuation Toolkit
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Excel](https://img.shields.io/badge/Excel-Automation-217346?logo=microsoftexcel)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![DCF](https://img.shields.io/badge/DCF-Valuation-success)
+![Financial Analysis](https://img.shields.io/badge/Finance-Analysis-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 > **Stack:** Python · Excel (openpyxl) · Pandas · Matplotlib · NumPy
 
 ## 📌 Overview
